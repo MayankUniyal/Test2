@@ -11,7 +11,6 @@ clone the project then for material project
  open http://localhost:4200
  </br>
  ````````````````````
- </br>
  for bootstrap project
  ````````````````````
  cd AngularBoots
